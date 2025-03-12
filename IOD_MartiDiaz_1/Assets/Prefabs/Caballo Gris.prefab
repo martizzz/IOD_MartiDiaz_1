@@ -23,6 +23,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 9cfd57def64f7a94bab407307b51fa07, type: 2}
+    - target: {fileID: 2943909404728042553, guid: fcdf5c53f0a7dfd46a9a2e7a2343c392,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4c6a15f4b645d054585aac94220b7e55, type: 2}
     - target: {fileID: 4024489748622421577, guid: fcdf5c53f0a7dfd46a9a2e7a2343c392,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -73,6 +78,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4525688355850070159, guid: fcdf5c53f0a7dfd46a9a2e7a2343c392,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4c6a15f4b645d054585aac94220b7e55, type: 2}
     - target: {fileID: 4811733308344347704, guid: fcdf5c53f0a7dfd46a9a2e7a2343c392,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -91,7 +101,7 @@ PrefabInstance:
     - target: {fileID: 7396874707224817367, guid: fcdf5c53f0a7dfd46a9a2e7a2343c392,
         type: 3}
       propertyPath: m_Name
-      value: Caballo (1) Variant
+      value: Caballo Gris
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
