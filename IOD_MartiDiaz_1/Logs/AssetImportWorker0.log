@@ -583,3 +583,815 @@ Start importing Assets using Guid(00000000000000001000000000000000) Importer(815
  -> (artifact id: 'ae5280ad91af67e2a353905758f96678') in 0.000360 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 186.475363 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(e3b17e711371d4148822d19afce45202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(e3b17e711371d4148822d19afce45202) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bd205b8b1bf0c0418e5b32c4e741a6ac') in 0.000702 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.159859 seconds.
+  path: Assets/Materials 1
+  artifactKey: Guid(df177716825c029458e835a459b664c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials 1 using Guid(df177716825c029458e835a459b664c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '767bd91dd997b95cbba11d4835370e2e') in 0.000408 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.766861 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(df177716825c029458e835a459b664c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(df177716825c029458e835a459b664c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fb411b7be6a81cfa31521f73f61d468b') in 0.000385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.947017 seconds.
+  path: Assets/Materials/Blanco.mat
+  artifactKey: Guid(23161a7fadb5fc74fa3f29e85da2685c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Blanco.mat using Guid(23161a7fadb5fc74fa3f29e85da2685c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8a923f6687de0895f6949dc3628923e5') in 0.736672 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 21
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Materials/Blanco 1.mat
+  artifactKey: Guid(1b72c3f2f60a276419b5dbc8cc2a8228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Blanco 1.mat using Guid(1b72c3f2f60a276419b5dbc8cc2a8228) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0659a4d9ff0c0eff198378e32c912094') in 0.008203 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.703193 seconds.
+  path: Assets/Materials/Negroi.mat
+  artifactKey: Guid(1b72c3f2f60a276419b5dbc8cc2a8228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Negroi.mat using Guid(1b72c3f2f60a276419b5dbc8cc2a8228) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3fd6c4993e23e3114d16c9514e9dc483') in 0.006719 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.869017 seconds.
+  path: Assets/Materials/Negroi 1.mat
+  artifactKey: Guid(61ca7163aa514954eadd3257bd20c115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Negroi 1.mat using Guid(61ca7163aa514954eadd3257bd20c115) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7855092f42b75f6122a9ee624d62bd42') in 0.006401 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 5.613816 seconds.
+  path: Assets/Materials/Marron.mat
+  artifactKey: Guid(1b72c3f2f60a276419b5dbc8cc2a8228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Marron.mat using Guid(1b72c3f2f60a276419b5dbc8cc2a8228) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9f36d8fdccfe2994f5ca7e47d1993ab7') in 0.006046 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 7.061496 seconds.
+  path: Assets/Materials/Negri.mat
+  artifactKey: Guid(61ca7163aa514954eadd3257bd20c115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Negri.mat using Guid(61ca7163aa514954eadd3257bd20c115) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '816a8fabc2d6355c9ce4876ad844e574') in 0.005993 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.348518 seconds.
+  path: Assets/Materials/Marron 1.mat
+  artifactKey: Guid(d0c4654e52bb8034c9ab5ee6030cb468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Marron 1.mat using Guid(d0c4654e52bb8034c9ab5ee6030cb468) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f71dbf7e30b96aa44164f748adb9aba0') in 0.006227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.000440 seconds.
+  path: Assets/Materials/Gris.mat
+  artifactKey: Guid(d0c4654e52bb8034c9ab5ee6030cb468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Gris.mat using Guid(d0c4654e52bb8034c9ab5ee6030cb468) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4de352d6eacb0bd9cceb086bfc2c455f') in 0.006383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.921953 seconds.
+  path: Assets/Materials/Negro.mat
+  artifactKey: Guid(61ca7163aa514954eadd3257bd20c115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Negro.mat using Guid(61ca7163aa514954eadd3257bd20c115) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '49068b6aed204bc1af288bc6b9c9a762') in 0.006187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 263.058725 seconds.
+  path: Assets/Caballo.prefab
+  artifactKey: Guid(78e662d1d9a785e4b881907ffaa5c0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Caballo.prefab using Guid(78e662d1d9a785e4b881907ffaa5c0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '86b4f54867f3761d01eb7c3491302372') in 0.017198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 40
+========================================================================
+Received Import Request.
+  Time since last request: 46.477741 seconds.
+  path: Assets/Materials/Gris.mat
+  artifactKey: Guid(d0c4654e52bb8034c9ab5ee6030cb468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Gris.mat using Guid(d0c4654e52bb8034c9ab5ee6030cb468) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'deb61e5d3c0357601527e1681525cd34') in 0.006549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Materials/Negro.mat
+  artifactKey: Guid(61ca7163aa514954eadd3257bd20c115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Negro.mat using Guid(61ca7163aa514954eadd3257bd20c115) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '237430212e76e4e7c8ae6cceb018a572') in 0.007211 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 56.224435 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(4cc590f9c6482cc47ba8605120ad21e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(4cc590f9c6482cc47ba8605120ad21e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ba49bda0efc55655b46bcce663e0658c') in 0.000427 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.584514 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '079d2dce3181dc6bde5d88373827dad9') in 0.000460 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.507309 seconds.
+  path: Assets/Materiales
+  artifactKey: Guid(43ad4983657f3ff45b4e3ab4aaa03190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales using Guid(43ad4983657f3ff45b4e3ab4aaa03190) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a94b07cdc975461c8110057c2f094f78') in 0.000435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.733508 seconds.
+  path: Assets/Materiales 1
+  artifactKey: Guid(7e6fb28e67e6fa24e959cc8271673c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales 1 using Guid(7e6fb28e67e6fa24e959cc8271673c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0b7274773583103ba3c5423c4c64e922') in 0.000402 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2.093735 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(7e6fb28e67e6fa24e959cc8271673c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(7e6fb28e67e6fa24e959cc8271673c63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '36d607dcf5b4d0876ceb9e92d26965d7') in 0.000391 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.124133 seconds.
+  path: Assets/Prefabs/Caballo.prefab
+  artifactKey: Guid(78e662d1d9a785e4b881907ffaa5c0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo.prefab using Guid(78e662d1d9a785e4b881907ffaa5c0b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3bd660119dbce319640dff0345876a50') in 0.007543 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 40
+========================================================================
+Received Import Request.
+  Time since last request: 7.590473 seconds.
+  path: Assets/Materiales/Blanco.mat
+  artifactKey: Guid(fad837dfc43469e42ac2de6616fd1992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Blanco.mat using Guid(fad837dfc43469e42ac2de6616fd1992) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dfa67c81cd01aab088817322171d86f2') in 0.006518 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 16.249069 seconds.
+  path: Assets/Prefabs/Caballo 1.prefab
+  artifactKey: Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo 1.prefab using Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9fa409108f50213ddfba673c1f4b8a76') in 0.006995 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 41
+========================================================================
+Received Import Request.
+  Time since last request: 7.009024 seconds.
+  path: Assets/Prefabs/Caballo Blanco.prefab
+  artifactKey: Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Blanco.prefab using Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8cbd0e5472ba9a7382c6e8f17c502a94') in 0.006260 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 41
+========================================================================
+Received Import Request.
+  Time since last request: 2.987694 seconds.
+  path: Assets/Prefabs/Caballo.prefab
+  artifactKey: Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo.prefab using Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2ac19b0b5fec26953325ad7043d68e56') in 0.006505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 41
+========================================================================
+Received Import Request.
+  Time since last request: 23.543101 seconds.
+  path: Assets/Materiales/Blanco 1.mat
+  artifactKey: Guid(715fc40421177f34a8b037b860337633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Blanco 1.mat using Guid(715fc40421177f34a8b037b860337633) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9617d9047ce1ae9e640b966580dd52f1') in 0.006205 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 3.947383 seconds.
+  path: Assets/Materiales/Marron.mat
+  artifactKey: Guid(715fc40421177f34a8b037b860337633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Marron.mat using Guid(715fc40421177f34a8b037b860337633) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '650dfa3a957fde4196216430a3c25a6c') in 0.006084 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 29.522460 seconds.
+  path: Assets/Prefabs/Caballo Variant.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Variant.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '09e8d326f9a3e8f13e51d0b3a901bf0b') in 0.009825 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 82
+========================================================================
+Received Import Request.
+  Time since last request: 5.373309 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3164777ca815910188f60c8fa8cdf831') in 0.007056 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 82
+========================================================================
+Received Import Request.
+  Time since last request: 32.383874 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '11bafe633db4e23b2b7b91b4cd85a379') in 0.008472 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 82
+========================================================================
+Received Import Request.
+  Time since last request: 75.038855 seconds.
+  path: Assets/Materiales/Marron.mat
+  artifactKey: Guid(715fc40421177f34a8b037b860337633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Marron.mat using Guid(715fc40421177f34a8b037b860337633) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '442920cc2de352b5681db65cb83e5189') in 0.006920 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.805295 seconds.
+  path: Assets/Materiales/Blanco 1.mat
+  artifactKey: Guid(9cfd57def64f7a94bab407307b51fa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Blanco 1.mat using Guid(9cfd57def64f7a94bab407307b51fa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '15447bf6d464cc603a5ad006290fe891') in 0.005944 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.486388 seconds.
+  path: Assets/Materiales/Gris.mat
+  artifactKey: Guid(9cfd57def64f7a94bab407307b51fa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Gris.mat using Guid(9cfd57def64f7a94bab407307b51fa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '13daad12bc5ab6aea3b64f51404a21be') in 0.006228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 18.262373 seconds.
+  path: Assets/Prefabs/Caballo (1) Variant.prefab
+  artifactKey: Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo (1) Variant.prefab using Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c89ba91dacfd671df0ae8c7ede00c79a') in 0.008784 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 82
+========================================================================
+Received Import Request.
+  Time since last request: 4.983103 seconds.
+  path: Assets/Prefabs/Caballo Gris.prefab
+  artifactKey: Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Gris.prefab using Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ae323ae610f59a149d872fb35311e7c2') in 0.007050 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 82
+========================================================================
+Received Import Request.
+  Time since last request: 1.686405 seconds.
+  path: Assets/Prefabs/Caballo Gris.prefab
+  artifactKey: Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Gris.prefab using Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '213cb123446bb49477da3d7041a8c462') in 0.008235 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 82
+========================================================================
+Received Import Request.
+  Time since last request: 68.824277 seconds.
+  path: Assets/Materiales/Gris.mat
+  artifactKey: Guid(9cfd57def64f7a94bab407307b51fa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Gris.mat using Guid(9cfd57def64f7a94bab407307b51fa07) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9ebe1f92fc0bca956429903f838bb966') in 0.006131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.241084 seconds.
+  path: Assets/Materiales/Marron 1.mat
+  artifactKey: Guid(f50cd7ef9e3fa1b43a3aebd65e2c3760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Marron 1.mat using Guid(f50cd7ef9e3fa1b43a3aebd65e2c3760) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4257a3f724cd2fa2e66d1a321e6b0a53') in 0.005966 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.985743 seconds.
+  path: Assets/Materiales/Negro.mat
+  artifactKey: Guid(f50cd7ef9e3fa1b43a3aebd65e2c3760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Negro.mat using Guid(f50cd7ef9e3fa1b43a3aebd65e2c3760) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7260a4ce9542e5563c12e4e968c334dc') in 0.006477 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 75.521647 seconds.
+  path: Assets/Prefabs/Caballo (1).prefab
+  artifactKey: Guid(1d094e522674a62448e6cfb1c7cd61ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo (1).prefab using Guid(1d094e522674a62448e6cfb1c7cd61ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2473aaf9137835778db22509674f3fa0') in 0.010510 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 93
+========================================================================
+Received Import Request.
+  Time since last request: 13.438112 seconds.
+  path: Assets/Prefabs/Caballo (1).prefab
+  artifactKey: Guid(1d094e522674a62448e6cfb1c7cd61ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo (1).prefab using Guid(1d094e522674a62448e6cfb1c7cd61ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0de087ca5541bdc243aa338c73f1340e') in 0.007932 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 53
+========================================================================
+Received Import Request.
+  Time since last request: 11.774911 seconds.
+  path: Assets/Prefabs/Caballo 1.prefab
+  artifactKey: Guid(957c5802fb5ebd3429bce6a87832670e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo 1.prefab using Guid(957c5802fb5ebd3429bce6a87832670e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd9bae7da4cae3edb139b2f8f22f1cc6d') in 0.007794 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 53
+========================================================================
+Received Import Request.
+  Time since last request: 9.461121 seconds.
+  path: Assets/Prefabs/Caballo.prefab
+  artifactKey: Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo.prefab using Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f916f97a7f6c5c8cb938849816e646f6') in 0.007045 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 46
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '689e87d75d96c2ffd8aa854d7f5b9e0e') in 0.008069 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 92
+========================================================================
+Received Import Request.
+  Time since last request: 64.486770 seconds.
+  path: Assets/Prefabs/Caballo.prefab
+  artifactKey: Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo.prefab using Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '646a44a80d0d6b2d82b9c9a39bcc1005') in 0.008012 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 52
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a989effef91bc151cc09737fb773fc76') in 0.007434 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 103
+========================================================================
+Received Import Request.
+  Time since last request: 50.264145 seconds.
+  path: Assets/Prefabs/Caballo.prefab
+  artifactKey: Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo.prefab using Guid(fcdf5c53f0a7dfd46a9a2e7a2343c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7d1bc2b687226c530977a8fc1ae71291') in 0.007305 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 52
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dca90da79c093e79236c48980d4066eb') in 0.008037 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 103
+========================================================================
+Received Import Request.
+  Time since last request: 40.838263 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '621e4a39de0601f2cf539c1d3741f43a') in 0.009413 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 1.772882 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'db80c0b62e3e40bf72b757b8114bec88') in 0.007936 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 1.198368 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f0da1ea9c7997344fb96c505b192e703') in 0.008060 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 2.000371 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '042dd832c207d4a8c8c26ae4b52a461e') in 0.008080 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 1.202394 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8a0678be907e850859e200d48c24585d') in 0.008296 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 0.999353 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1ad33501b9fbd95ba419bc1523ded114') in 0.007759 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 1.793896 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b93e558d60d309198df2ebb4c241ef6a') in 0.009808 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 1.188203 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7ec446a40d39b011260b99db132921cb') in 0.008548 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 1.187723 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2a2e4c25a28ef9049c42985167fae236') in 0.008856 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 2.191762 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a47113858788d53849069304c6e534b8') in 0.007769 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 3.805430 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7711b76cac532d2087dcde928a6395ee') in 0.008279 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 1.599135 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '99455acfa201b8ce848a431d9b0100d4') in 0.008274 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 1.187336 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e327f2a4e7b40c3311b28352238bb4ce') in 0.009712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 1.992662 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9c74c97efca38c826deb130d02a948c1') in 0.008145 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 108
+========================================================================
+Received Import Request.
+  Time since last request: 1.598795 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '79d7defaaed8cbe5bc866cda050fd281') in 0.007299 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.793523 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1ac4accf3c4e6c9c4df21ee017c50c48') in 0.008353 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 1.996582 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bc9558ee44325c873ab2de119ec893e4') in 0.008360 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 113
+========================================================================
+Received Import Request.
+  Time since last request: 0.590038 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0023e77c361f6e5b7a6ea54049882f16') in 0.007479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 0.787211 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b818f36d2491952da56614fab6a48df3') in 0.009449 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 2.041755 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '83491c85c42c791c6817bd5eb886c50b') in 0.010876 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 1.759777 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cc2874f7961caee877d01a539b95ff3f') in 0.007846 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 1.996950 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dd1e2aea3fa7e37c8beea30758b70cf9') in 0.008354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 1.999316 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bf06fe69ea59cf684d597bc1852274f3') in 0.008538 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 2.416575 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c8d6b7e03572bcd69c7451e262403c6a') in 0.008493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 1.595722 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7ab5d962c6615cf33535e5ac953074af') in 0.008653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 1.393752 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '67a9c7727bacb7f43576e003b5d3748b') in 0.008419 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 2.198847 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9f9700df349b5166d2ee93676835ec75') in 0.008261 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 1.596120 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a4f754951ad2f87b33fd05fba83abeb4') in 0.008678 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 2.001821 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4272f692294dfd4bc94194b0e47932d8') in 0.009236 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 1.388000 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '41abc4636b3cade22aafe69a496cbb4d') in 0.008587 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 118
+========================================================================
+Received Import Request.
+  Time since last request: 2.946936 seconds.
+  path: Assets/Materiales/Negro.mat
+  artifactKey: Guid(f50cd7ef9e3fa1b43a3aebd65e2c3760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Negro.mat using Guid(f50cd7ef9e3fa1b43a3aebd65e2c3760) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '98d0f4b00f9a678b4513dbfd7dd1e605') in 0.006189 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 62.284551 seconds.
+  path: Assets/Prefabs/Caballo Marron.prefab
+  artifactKey: Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Marron.prefab using Guid(6226b35b8059cbb40bb7db0343e91fec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '316c7986a0a198a33c1f93b07069347c') in 0.008253 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 120
+========================================================================
+Received Import Request.
+  Time since last request: 8.426190 seconds.
+  path: Assets/Materiales/Azul.mat
+  artifactKey: Guid(4c6a15f4b645d054585aac94220b7e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Azul.mat using Guid(4c6a15f4b645d054585aac94220b7e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '548531b706db620db9d5092b394c2790') in 0.006113 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 13.038308 seconds.
+  path: Assets/Materiales/Azul.mat
+  artifactKey: Guid(4c6a15f4b645d054585aac94220b7e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materiales/Azul.mat using Guid(4c6a15f4b645d054585aac94220b7e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6f224b8f791b7cbb7a0c2e6ac3bcf39c') in 0.006698 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2

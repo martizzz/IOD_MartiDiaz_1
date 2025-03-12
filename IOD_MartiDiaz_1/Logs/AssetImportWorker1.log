@@ -574,3 +574,53 @@ Start importing Assets/Readme.asset using Guid(8105016687592461f977c054a80ce2f2)
  -> (artifact id: 'f448eb04ce67474f4a165c248c238a66') in 0.010202 seconds
 Number of updated asset objects reloaded before import = 3
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 220.111877 seconds.
+  path: Assets/Materials/Blanco.mat
+  artifactKey: Guid(23161a7fadb5fc74fa3f29e85da2685c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Blanco.mat using Guid(23161a7fadb5fc74fa3f29e85da2685c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8a923f6687de0895f6949dc3628923e5') in 0.702070 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 21
+========================================================================
+Received Import Request.
+  Time since last request: 330.671457 seconds.
+  path: Assets/Materials/Marron.mat
+  artifactKey: Guid(1b72c3f2f60a276419b5dbc8cc2a8228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Marron.mat using Guid(1b72c3f2f60a276419b5dbc8cc2a8228) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b116d6d49e9eaacf1806828e41f19479') in 0.007552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 489.745187 seconds.
+  path: Assets/Prefabs/Caballo Gris.prefab
+  artifactKey: Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Gris.prefab using Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bf9dfe846693416326b6295cfea4a600') in 0.020214 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 92
+========================================================================
+Received Import Request.
+  Time since last request: 64.487265 seconds.
+  path: Assets/Prefabs/Caballo Gris.prefab
+  artifactKey: Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Gris.prefab using Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9ccf03306fdf62f19c0224079543fda1') in 0.009141 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 103
+========================================================================
+Received Import Request.
+  Time since last request: 50.276846 seconds.
+  path: Assets/Prefabs/Caballo Gris.prefab
+  artifactKey: Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Caballo Gris.prefab using Guid(c9c07dca3bfa12e47827f4a5fb6e979c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ec6edf7bc2fcf2e8c204ea2099ab470e') in 0.008123 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 103
